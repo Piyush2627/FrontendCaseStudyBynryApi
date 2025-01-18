@@ -251,60 +251,6 @@
   "phone_number": "773-778-7847",
   "address_line_2": "Apt 1363",
   "profile_image_url": "https://i.pravatar.cc/1"
-}, {
-  "user_id": 29,
-  "first_name": "Adlai",
-  "last_name": "Lewing",
-  "age": 58,
-  "email": "alewings@npr.org",
-  "phone_number": "577-571-4960",
-  "address_line_2": "Room 195",
-  "profile_image_url": "https://i.pravatar.cc/1"
-}, {
-  "user_id": 30,
-  "first_name": "Philis",
-  "last_name": "Lago",
-  "age": 101,
-  "email": "plagot@webmd.com",
-  "phone_number": "462-596-3743",
-  "address_line_2": "Apt 702",
-  "profile_image_url": "https://i.pravatar.cc/1"
-}, {
-  "user_id": 31,
-  "first_name": "Batsheva",
-  "last_name": "Rebeiro",
-  "age": 14,
-  "email": "brebeirou@phpbb.com",
-  "phone_number": "773-737-6712",
-  "address_line_2": "4th Floor",
-  "profile_image_url": "https://i.pravatar.cc/1"
-}, {
-  "user_id": 32,
-  "first_name": "Ab",
-  "last_name": "Boulton",
-  "age": 34,
-  "email": "aboultonv@wufoo.com",
-  "phone_number": "931-810-4190",
-  "address_line_2": "Apt 354",
-  "profile_image_url": "https://i.pravatar.cc/1"
-}, {
-  "user_id": 33,
-  "first_name": "Tamara",
-  "last_name": "Cathrae",
-  "age": 80,
-  "email": "tcathraew@youtube.com",
-  "phone_number": "730-816-1386",
-  "address_line_2": "9th Floor",
-  "profile_image_url": "https://i.pravatar.cc/1"
-}, {
-  "user_id": 34,
-  "first_name": "Chaddie",
-  "last_name": "Klicher",
-  "age": 25,
-  "email": "cklicherx@amazon.de",
-  "phone_number": "581-713-3189",
-  "address_line_2": "Apt 1323",
-  "profile_image_url": "https://i.pravatar.cc/180"
 }],
   "profile": {
     "name": "typicode"
